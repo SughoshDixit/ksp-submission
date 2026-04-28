@@ -1,10 +1,31 @@
 # ksp-submission
-This repository is created for Karnataka State Police Hackathon 2023 - submission collection. 
-## Team Information
-### Team Name - Chanakya
-### Problem Statement - AI Based Face Detection
-Please find the hosted links below:
 
-https://azureparignyata.azurewebsites.net/
-https://white-cliff-0a1ebed10.2.azurestaticapps.net/index.html
+## Overview
+ksp-submission is a **Python** project. This repository contains the source code, documentation, and any related assets for the project.
 
+## Intent
+The intention behind this project is to provide a reference implementation, demonstrate ksp-submissionâ€™s functionality, and serve as a learning or showcase resource.
+
+## Complexity
+Medium
+
+## How to Run
+`
+# Clone the repository
+
+git clone https://github.com/SughoshDixit/ksp-submission.git
+
+cd ksp-submission
+
+# (optional) create a virtual environment
+python -m venv venv
+
+# Activate and install dependencies
+.\\venv\\Scripts\\activate
+pip install -r requirements.txt
+
+# Run the script
+python main.py
+`
+
+*(If the project uses a different build tool, replace the commands above with the appropriate instructions.)*
